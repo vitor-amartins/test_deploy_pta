@@ -1,1 +1,1 @@
-web: gunicorn test_deploy_pta.wsgi
+web: gunicorn test_deploy.wsgi
